@@ -4,6 +4,8 @@ Series of Apple Scripts to speed up QA testing
 
 Scripts are assigned to hotkeys using Automater see: https://www.addictivetips.com/mac-os/run-an-applescript-with-a-keyboard-shortcut-on-macos/
 
+Will need to run the scripts manually the first time (by double clicking on the .app file)
+
 Works with Chrome
 
 ## jiraCommentAutofill / jiraCommentAutoFill Steps
