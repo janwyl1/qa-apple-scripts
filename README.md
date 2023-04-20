@@ -2,9 +2,13 @@
 
 Series of Apple Scripts to speed up QA testing
 
-Scripts are assigned to hotkeys using Automater see: https://www.addictivetips.com/mac-os/run-an-applescript-with-a-keyboard-shortcut-on-macos/
+# Installation Instructions
+- Download the scripts
+- Double click to open them in Script Editor and choose Export -> Application
+- Run them manually once and accept security warning
+- Set up a quick action to run the script using Automator. See: https://www.addictivetips.com/mac-os/run-an-applescript-with-a-keyboard-shortcut-on-macos/
+- Assign them to a keyboard shortcut via System Preferences -> Keyboard -> Shortcuts. See: https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote
 
-Will need to run the scripts manually the first time (by double clicking on the .app file)
 
 Works with Chrome
 
