@@ -7,6 +7,7 @@ Series of Apple Scripts to speed up QA testing
 - Double click to open them in Script Editor and choose Export -> Application
 - Run them manually once and accept security warning
 - Set up a quick action to run the script using Automator. See: https://www.addictivetips.com/mac-os/run-an-applescript-with-a-keyboard-shortcut-on-macos/
+- Close the Automator and give a name to the new automation
 - Assign them to a keyboard shortcut via System Preferences -> Keyboard -> Shortcuts -> Services. See: https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote
 - Add automator to Settings -> Security & Privacy -> Accessbility
 
